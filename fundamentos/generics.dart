@@ -9,6 +9,7 @@ main() {
         'vendedor': 1212.89,
         'estagiario': 232.00,
     };
+    
     print(salarios);
 
 }
